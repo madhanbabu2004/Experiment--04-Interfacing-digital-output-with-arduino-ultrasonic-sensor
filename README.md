@@ -112,7 +112,7 @@ void loop()
 
 
 ### RESULTS
-
+The interface an ultrasonic pair and measure the distance in is done sucssesfully.
 
 
  
